@@ -1,1 +1,3 @@
 rootProject.name = "homework4"
+include 'properties-loader'
+
